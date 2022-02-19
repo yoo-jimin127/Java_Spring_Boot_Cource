@@ -1,2 +1,2 @@
-# PGL_JavaSpringBoot
-The origin PGL Java Spring Boot 프리코스 
+# Java_Spring_Boot_Mission
+The origin PGL Java Spring Boot 
