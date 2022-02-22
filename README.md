@@ -1,4 +1,4 @@
-# Java_Spring_Boot_Mission
+# Java_Spring_Boot_Course
 The origin PGL Java Spring Boot 
 
 Project Lion에서 진행하는 The Origin Java Spring Boot 수강 기록을 목적으로한 소스코드 & 필기본 저장소입니다.
