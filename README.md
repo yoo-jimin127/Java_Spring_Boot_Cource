@@ -28,3 +28,16 @@ Project Lion에서 진행하는 The Origin Java Spring Boot 수강 기록을 목
 - CRUD와 REST
 - Spring Stereotypes
 - Database 다뤄보기
+
+### Week 5
+- Mybatis 사용해보기
+- ORM
+- JPA 활용하기
+- CRUD에 데이터베이스 적용
+- 2차 미션
+
+### Week 6
+- Spring Boot Properties
+- Logging
+- Spring AOP
+- Validation
