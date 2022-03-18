@@ -41,3 +41,16 @@ Project Lion에서 진행하는 The Origin Java Spring Boot 수강 기록을 목
 - Logging
 - Spring AOP
 - Validation
+
+### Week 7
+- Exception Handling
+- Interceptors & Filters
+- Spring Boot Tests
+- Spring Boot Actuator
+
+### Week 8
+- Auth의 의미
+- Login 기본
+- Login 커스텀
+- OAuth2와 JWT
+- OAUTH2 서버 만들어보기
